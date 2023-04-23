@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Inversión en TRX - [Nombre de la empresa]</title>
+	<meta name="description" content="Sitio web de inversión en TRX">
+	<link rel="stylesheet" type="text/css" href="estilos.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+	<header>
+		<div class="logo">
+			<img src="logo.png" alt="Logo de [Nombre de la empresa]">
+		</div>
+		<nav>
+			<ul>
+				<li><a href="#inicio">Inicio</a></li>
+				<li><a href="#planes">Planes de Inversión</a></li>
+				<li><a href="#proceso">Proceso de Inversión</a></li>
+				<li><a href="#testimonios">Testimonios</a></li>
+				<li><a href="#contacto">Contacto</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="inicio">
+			<div class="hero">
+				<h1>Bienvenido a [Nombre de la empresa]</h1>
+				<p>Nuestro objetivo es ayudar a los inversores a maximizar sus ganancias a través de planes de inversión seguros y confiables en TRX.</p>
+				<a href="#planes" class="boton-accion">Comenzar a Invertir</a>
+			</div>
+		</section>
+		<section id="planes">
+			<div class="container">
+				<h2>Planes de Inversión</h2>
+				<p>Elige uno de nuestros planes de inversión para comenzar a aumentar tus ganancias en TRX.</p>
+				<div class="planes-grid">
+					<div class="plan">
+						<div class="plan-header">
+							<h3>Básico</h3>
+							<p>Para los inversores que buscan una opción segura y confiable.</p>
+						</div>
+						<div class="plan-body">
+							<p class="plan-precio">5 TRX</p>
+							<p class="plan-tasa">20% por mes</p>
+							<p class="plan-periodo">1 - 12 meses</p>
+							<p class="plan-deposito">Para comenzar a invertir, por favor envía tus TRX a la siguiente dirección de depósito: TVXnLrMvMuJqGHTouB6W2Kj4de7Vjwo7PC</p>
+							<a href="#" class="boton-accion">Invertir Ahora</a>
+						</div>
+					</div>
+					<div class="plan">
+						<div class="plan-header">
+							<h3>Avanzado</h3>
+							<p>Para los inversores que buscan mayores ganancias a largo plazo.</p>
+						</div>
+						<div class="plan-body">
+							<p class="plan-precio">50 TRX</p>
+							<p class="plan-tasa">25% por mes</p>
+							<p class="plan-periodo">6 - 24 meses</p>
+							<p class="plan-deposito">Para comenzar a invertir, por favor envía tus TRX a la siguiente dirección de depósito: [dirección de depósito avanzado]</p>
+							<a href="#" class="boton-accion">Invertir Ahora</a>
+						</div>
+					</div>
+					<div class="plan">
+						<div class="plan-header">
+							<h3>Premium</h3>
+							<p>Para los inversores que buscan los mayores rendimientos y están dispuestos a correr más riesgos.</p>
+						</div>
+						<div class="plan-body">
+							<p class="plan-precio">100 TRX</p>
+							<p class="plan-tasa">30% por mes</p>
+							<p class="plan-periodo">12 - 36 meses</p>
+							<p class="plan-deposito">Para comenzar a invertir, por favor envía tus TRX a la siguiente dirección de depósito: [dirección de depósito premium]</p>
+							<a href="#" class="boton-accion">Invertir Ahora</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="proceso">
+			<div class="container">
+				<h2>Proceso de Inversión</h2>
+				<p>Para comenzar a invertir en nuestros planes de inversión en TRX, sigue estos sencillos pasos:</p>
+				<ol>
+					<li>Selecciona uno de nuestros planes de inversión en la sección "Planes de Inversión" y haz clic en "Invertir Ahora".</li>
+					<li>Envía la cantidad deseada de TRX a la dirección de depósito proporcionada para el plan seleccionado.</li>
+					<li>Confirma tu inversión y espera a que comience a generar ganancias.</li>
+					<li>Retira tus ganancias en cualquier momento a través de la sección "Retiros".</li>
+				</ol>
+			</div>
+		</section>
+		<section id="testimonios">
+			<div class="container">
+				<h2>Testimonios</h2>
+				<p>Esto es lo que algunos de nuestros clientes satisfechos tienen que decir sobre su experiencia invirtiendo en TRX con [Nombre de la empresa]:</p>
+				<div class="testimonios-grid">
+					<div class="testimonio">
+						<p>"Increíble servicio de inversión en TRX. He estado invirtiendo con ellos durante más de 6 meses y mis ganancias han sido consistentes y confiables. ¡Altamente recomendado!"</p>
+						<p class="nombre">- Juan Pérez</p>
+					</div>
+					<div class="testimonio">
+						<p>"He intentado invertir en otras plataformas de criptomonedas antes, pero siempre me he sentido inseguro. Con [Nombre de la empresa], me siento completamente tranquilo sabiendo que mis inversiones están en buenas manos."</p>
+						<p class="nombre">- María González</p>
+					</div>
+					<div class="testimonio">
+						<p>"Gracias a [Nombre de la empresa], pude alcanzar mis objetivos financieros más rápido de lo que pensé posible. Su atención al cliente es excepcional y siempre están dispuestos a responder cualquier pregunta que tenga."</p>
+						<p class="nombre">- Carlos Rodríguez</p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="contacto">
+			<div class="container">
+				<h2>Contacto</h2>
+				<p>Si tienes alguna pregunta o comentario sobre nuestros servicios de inversión en TRX, no dudes en ponerte en contacto con nosotros a través de los siguientes medios:</p>
+				<ul>
+					<li>Teléfono: [número de teléfono]</li>
+					<li>Correo electrónico: [correo electrónico]</li>
+					<li>Redes sociales: [enlaces a redes sociales]</li>
+				</ul>
+			</div>
+		</section>
+	</main>
+	<footer>
+		<div class="container">
+			<p>Derechos Reservados © 2023 [Nombre de la empresa]</p>
+		</div>
+	</footer>
+</body>
+</html>
